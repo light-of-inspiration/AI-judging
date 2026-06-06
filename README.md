@@ -34,7 +34,10 @@ Among all the precedents, we select one with 12 defendants, where 2 of them have
   
 > (2)**Defendant Li**. Li operated a livestock farm and, being unable to secure a loan from traditional banking institutions, sought financial assistance through Huang. In compliance with the latter’s stipulations, Li established a corporate account and relinquished control by providing the associated U-Key, account details, and password. This account was subsequently utilized to receive transfers from the implicated accounts of Tang and others, specifically processing a single transaction of 610,000 yuan linked to telecommunication fraud. Li is classified as a recidivist. However, given that Li has confessed to the offence and accepted punishment in accordance with the law, a mitigated sentence may be considered.
 >   
-> In this judgement, Li was convicted of the assistive crime and sentenced to 8 months of fixed-term imprisonment, along with a fine of 5,000 yuan.  
+> In this judgement, Li was convicted of the assistive crime and sentenced to 8 months of fixed-term imprisonment, along with a fine of 5,000 yuan.
+>
+> See the precedent (2025) Qing 0105 No. 20 in the first instance criminal trials, ‘Zhang et al. prosecuted for the concealing crime’, released by People’s Court of Chengbei District, Xining City. 
+〔参见（2025）青0105刑初20号判决书“张某某等掩饰、隐瞒犯罪所得案”西宁市城北区人民法院〕  
   
 ## 4. Others
 We also upload some code, environment, running results for reference.  
