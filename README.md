@@ -42,7 +42,7 @@ Among all the precedents, we select one with 12 defendants, where 2 of them have
 ## 4. Others
 We also upload some code, environment, running results for reference.  
   
-In addition, as you can see, it is a Chinese dataset, and it is temporarily impossible to translate all of them, but related translators may help. If you have any other questions, contact us through: <u> fountainofideas@foxmail.com </u> .  
+In addition, as you can see, it is a Chinese dataset, and it is temporarily impossible to translate all of them, but online translators may help. If you have any other questions, contact us through: <u> fountainofideas@foxmail.com </u> .  
   
 ---  
 Updated June, 2026  
