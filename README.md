@@ -21,7 +21,7 @@ Here, we are NOT aiming to settle this problem, but to investigate how the judge
 ### 3.1 Structured data for conventional model training
 Therefore, we collect the precedent data from the iCourt database, and search for all the cases in the past one year (2025) which include both the keywords ‘the crime of assisting information network criminal activities’ and ‘the crime of concealing or covering up proceeds of crime and profits derived from crime’, then exclude the repeated (71 records) or exceptional data (3 records) to get the cleaned data (951 records). For sampling method, considering the distribution of the last number of the precedent id is normally uniformly distributed, hence we can select the precedent with the end of ‘0’ as the sampled data (95 samples with 162 defendants’ records).  
   
-By extracting common factors that affect the application of law and the main elements involved in theoretical disputes, we have produced <u> LAIC.xlsx </u> for machine learning models.  
+By extracting common factors that affect the application of law and the main elements involved in theoretical disputes, we have produced `LAIC.xlsx` for machine learning models.  
   
 > We attended the LAIC contest with the first version of the manuscript, while ‘LAIC.xlsx’ refers to the usage, but NOT the data resource. We make use of the data according to the Berne Convention and Article 24 of the Copyright Law, PRC.   
   
@@ -41,7 +41,9 @@ Among all the precedents, we select one with 12 defendants, where 2 of them have
   
 ## 4. Others
 We also upload some code, environment, running results for reference.  
-  
+
+In the folder `ChatData`, we have shown how the LLMs generation content for comparison is made. we give the `prompt.txt` and the `task.txt` to form the prompt, and transfer AI's answer into the table in the manuscript.  
+   
 In addition, as you can see, it is a Chinese dataset, and it is temporarily impossible to translate all of them, but online translators may help. If you have any other questions, contact us through: <u> fountainofideas@foxmail.com </u> .  
   
 ---  
