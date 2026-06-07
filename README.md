@@ -44,7 +44,7 @@ We also upload some code, environment, running results for reference.
 
 In the folder `ChatData`, we have shown how the LLMs generation content for comparison is made. we give the `prompt.txt` and the `task.txt` to form the prompt, and transfer AI's answer into the table in the manuscript.  
    
-In addition, as you can see, it is a Chinese dataset, and it is temporarily impossible to translate all of them, but online translators may help. If you have any other questions, contact us through: <u> fountainofideas@foxmail.com </u> .  
+In addition, as you can see, it is a Chinese dataset, and it is temporarily impossible to translate all of them, but online translators may help. If you have any other questions, contact us through: <u> ly_092@yeah.net </u> .  
   
 ---  
 Updated June, 2026  
